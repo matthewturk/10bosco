@@ -1,5 +1,7 @@
 # Ten Simple Rules for Building Open Science Community Organizations
 
+[Matthew Turk][turk] and [Greg Wilson][wilson]
+
 1. **Do the reading.**
    People have been writing about their experiences with grassroots organizations for two centuries.
    Resources we have found particularly useful include [Building Powerful Community Organizations][bpco]
@@ -40,3 +42,5 @@
 [coc]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
 [poss]: http://producingoss.com/
 [structurelessness]: http://www.jofreeman.com/joreen/tyranny.htm
+[turk]: https://ischool.illinois.edu/people/faculty/mjturk
+[wilson]: http://third-bit.com
